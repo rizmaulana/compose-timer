@@ -24,5 +24,3 @@ val background = Color(24, 24, 27)
 val background50 = Color(24, 24, 27, 50)
 val foreground = Color(34, 35, 30)
 val inactiveMark = Color(49, 51, 71)
-
-
